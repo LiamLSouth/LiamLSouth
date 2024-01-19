@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, Power BI, and Python
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me shoot me a massage here
-- 😄 Pronouns: It/They/She
+- 😄 Pronouns: It/They/She/He
 - ⚡ Fun fact: Mushrooms are more closly realted to us than plants, and fungus makes up one of the largerst organisms in the US
 
 <!---
